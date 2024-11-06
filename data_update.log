@@ -1,0 +1,14 @@
+2024-11-06 22:44:49,115 Loaded existing pledge.csv file
+2024-11-06 22:44:49,126 Starting new HTTPS connection (1): www.nseindia.com:443
+2024-11-06 22:44:49,768 https://www.nseindia.com:443 "GET / HTTP/1.1" 200 None
+2024-11-06 22:44:52,748 https://www.nseindia.com:443 "GET /api/corporate-pledgedata?index=equities HTTP/1.1" 200 None
+2024-11-06 22:44:52,862 Data successfully fetched from the API
+2024-11-06 22:45:01,646 Entries added today: 1
+2024-11-06 22:45:01,705 pledge.csv updated successfully with 3208 total entries
+2024-11-06 22:45:05,811 Loaded existing insider.csv file
+2024-11-06 22:45:05,821 Starting new HTTPS connection (1): www.nseindia.com:443
+2024-11-06 22:45:06,531 https://www.nseindia.com:443 "GET / HTTP/1.1" 200 None
+2024-11-06 22:45:07,086 https://www.nseindia.com:443 "GET /api/corporates-pit?index=equities&from_date=09-07-2024&to_date=06-11-2024 HTTP/1.1" 200 None
+2024-11-06 22:45:07,472 Data successfully fetched from the API
+2024-11-06 22:47:38,042 Entries added today: 89
+2024-11-06 22:47:39,100 insider.csv updated successfully with 11733 total entries
