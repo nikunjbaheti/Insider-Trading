@@ -1,0 +1,93 @@
+symbol,basic_industry,industry,macro,sector
+ACEINTEG,Diversified Commercial Services,Commercial Services & Supplies,Services,Services
+ACI,Specialty Chemicals,Chemicals & Petrochemicals,Commodities,Chemicals
+ACL,Cement & Cement Products,Cement & Cement Products,Commodities,Construction Materials
+ACLGATI,Logistics Solution Provider,Transport Services,Services,Services
+ADANIENSOL,Power Distribution,Power,Utilities,Power
+ADVANIHOTR,Hotels & Resorts,Leisure Services,Consumer Discretionary,Consumer Services
+ADVENZYMES,Biotechnology,Pharmaceuticals & Biotechnology,Healthcare,Healthcare
+AEGISLOG,Trading - Gas,Gas,Energy,Oil Gas & Consumable Fuels
+AEROFLEX,Iron & Steel Products,Industrial Products,Industrials,Capital Goods
+APS,Heavy Electrical Equipment,Electrical Equipment,Industrials,Capital Goods
+APTECHT,Education,Other Consumer Services,Consumer Discretionary,Consumer Services
+APTUS,Housing Finance Company,Finance,Financial Services,Financial Services
+ARCHIDPLY,Plywood Boards/ Laminates,Consumer Durables,Consumer Discretionary,Consumer Durables
+ARCHIES,Leisure Products,Consumer Durables,Consumer Discretionary,Consumer Durables
+ASPINWALL,Logistics Solution Provider,Transport Services,Services,Services
+ASTEC,Pesticides & Agrochemicals,Fertilizers & Agrochemicals,Commodities,Chemicals
+ASTERDM,Hospital,Healthcare Services,Healthcare,Healthcare
+ASTRAL,Plastic Products - Industrial,Industrial Products,Industrials,Capital Goods
+ASTRAMICRO,Aerospace & Defense,Aerospace & Defense,Industrials,Capital Goods
+ASTRAZEN,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare
+BALRAMCHIN,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+CRISIL,Other Financial Services,Finance,Financial Services,Financial Services
+CROMPTON,Household Appliances,Consumer Durables,Consumer Discretionary,Consumer Durables
+CROWN,Industrial Products,Industrial Manufacturing,Industrials,Capital Goods
+CSBBANK,Private Sector Bank,Banks,Financial Services,Financial Services
+CSLFINANCE,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services
+DCMSHRIRAM,Diversified,Diversified,Diversified,Diversified
+DCXINDIA,Aerospace & Defense,Aerospace & Defense,Industrials,Capital Goods
+DELHIVERY,Logistics Solution Provider,Transport Services,Services,Services
+DELTACORP,Amusement Parks/ Other Recreation,Leisure Services,Consumer Discretionary,Consumer Services
+DELTAMAGNT,Other Industrial Products,Industrial Products,Industrials,Capital Goods
+DOMS,Stationary,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+DONEAR,Other Textile Products,Textiles & Apparels,Consumer Discretionary,Textiles
+DPABHUSHAN,Gems Jewellery And Watches,Consumer Durables,Consumer Discretionary,Consumer Durables
+GABRIEL,Auto Components & Equipments,Auto Components,Consumer Discretionary,Automobile and Auto Components
+GAEL,Other Agricultural Products,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+GAIL,Gas Transmission/Marketing,Gas,Energy,Oil Gas & Consumable Fuels
+GALAPREC,Industrial Products,Industrial Manufacturing,Industrials,Capital Goods
+GALAXYSURF,Specialty Chemicals,Chemicals & Petrochemicals,Commodities,Chemicals
+GLOBALE,Trading - Textile Products,Textiles & Apparels,Consumer Discretionary,Textiles
+GLOBALVECT,Airline,Transport Services,Services,Services
+GLOBE,Other Textile Products,Textiles & Apparels,Consumer Discretionary,Textiles
+GLOBUSSPR,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+GLOSTERLTD,Jute & Jute Products,Paper Forest & Jute Products,Commodities,Forest Materials
+GMBREW,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+GOLDBEES,Mutual Fund Scheme,Capital Markets,Financial Services,Financial Services
+GRANULES,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare
+GRAPHITE,Electrodes & Refractories,Industrial Products,Industrials,Capital Goods
+GRASIM,Cement & Cement Products,Cement & Cement Products,Commodities,Construction Materials
+GRAVITA,Industrial Minerals,Minerals & Mining,Commodities,Metals & Mining
+HAL,Aerospace & Defense,Aerospace & Defense,Industrials,Capital Goods
+HAPPSTMNDS,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology
+HAPPYFORGE,Castings & Forgings,Industrial Products,Industrials,Capital Goods
+HARDWYN,Furniture Home Furnishing,Consumer Durables,Consumer Discretionary,Consumer Durables
+HARIOMPIPE,Iron & Steel Products,Industrial Products,Industrials,Capital Goods
+HARRMALAYA,Rubber,Industrial Products,Industrials,Capital Goods
+HDFCLIFE,Life Insurance,Insurance,Financial Services,Financial Services
+HINDZINC,Zinc,Non - Ferrous Metals,Commodities,Metals & Mining
+HIRECT,Industrial Products,Industrial Manufacturing,Industrials,Capital Goods
+HISARMETAL,Iron & Steel Products,Industrial Products,Industrials,Capital Goods
+HITECH,Iron & Steel Products,Industrial Products,Industrials,Capital Goods
+HITECHCORP,Packaging,Industrial Products,Industrials,Capital Goods
+HITECHGEAR,Auto Components & Equipments,Auto Components,Consumer Discretionary,Automobile and Auto Components
+IFBAGRO,Breweries & Distilleries,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+IFBIND,Household Appliances,Consumer Durables,Consumer Discretionary,Consumer Durables
+IFCI,Financial Institution,Finance,Financial Services,Financial Services
+IFGLEXPOR,Electrodes & Refractories,Industrial Products,Industrials,Capital Goods
+IGARASHI,Auto Components & Equipments,Auto Components,Consumer Discretionary,Automobile and Auto Components
+IGIL,Diversified Commercial Services,Commercial Services & Supplies,Services,Services
+IREDA,Financial Institution,Finance,Financial Services,Financial Services
+JIOFIN,Investment Company,Finance,Financial Services,Financial Services
+KRONOX,Specialty Chemicals,Chemicals & Petrochemicals,Commodities,Chemicals
+LODHA,Residential Commercial Projects,Realty,Consumer Discretionary,Realty
+RAMCOSYS,Software Products,IT - Software,Information Technology,Information Technology
+SWSOLAR,Civil Construction,Construction,Industrials,Construction
+SYMPHONY,Household Appliances,Consumer Durables,Consumer Discretionary,Consumer Durables
+SYNCOMF,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare
+SYNGENE,Healthcare Research Analytics & Technology,Healthcare Services,Healthcare,Healthcare
+SYRMA,Industrial Products,Industrial Manufacturing,Industrials,Capital Goods
+UNIMECH,Aerospace & Defense,Aerospace & Defense,Industrials,Capital Goods
+UNIONBANK,Public Sector Bank,Banks,Financial Services,Financial Services
+UNIPARTS,Auto Components & Equipments,Auto Components,Consumer Discretionary,Automobile and Auto Components
+VAKRANGEE,IT Enabled Services,IT - Services,Information Technology,Information Technology
+VALIANTLAB,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare
+VALIANTORG,Specialty Chemicals,Chemicals & Petrochemicals,Commodities,Chemicals
+VARDHACRLC,Other Textile Products,Textiles & Apparels,Consumer Discretionary,Textiles
+WALCHANNAG,Industrial Products,Industrial Manufacturing,Industrials,Capital Goods
+WANBURY,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare
+WCIL,Logistics Solution Provider,Transport Services,Services,Services
+WEALTH,Other Financial Services,Finance,Financial Services,Financial Services
+WEBELSOLAR,Other Electrical Equipment,Electrical Equipment,Industrials,Capital Goods
+WEIZMANIND,Other Textile Products,Textiles & Apparels,Consumer Discretionary,Textiles
