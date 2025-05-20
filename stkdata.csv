@@ -1,0 +1,17 @@
+symbol,basic_industry,industry,macro,sector
+CARERATING,Ratings,Capital Markets,Financial Services,Financial Services
+EASEMYTRIP,Tour Travel Related Services,Leisure Services,Consumer Discretionary,Consumer Services
+HDFCBANK,Private Sector Bank,Banks,Financial Services,Financial Services
+IDEA,Telecom - Cellular & Fixed line services,Telecom - Services,Telecommunication,Telecommunication
+NHPC,Power Generation,Power,Utilities,Power
+NIDAN,Healthcare Service Provider,Healthcare Services,Healthcare,Healthcare
+PKTEA,Tea & Coffee,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+SAIL,Iron & Steel,Ferrous Metals,Commodities,Metals & Mining
+TRACXN,Data Processing Services,Commercial Services & Supplies,Services,Services
+TRANSWORLD,Shipping,Transport Services,Services,Services
+TREJHARA,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology
+TREL,Logistics Solution Provider,Transport Services,Services,Services
+TRIDENT,Other Textile Products,Textiles & Apparels,Consumer Discretionary,Textiles
+TRIGYN,Computers - Software & Consulting,IT - Software,Information Technology,Information Technology
+TRITURBINE,Heavy Electrical Equipment,Electrical Equipment,Industrials,Capital Goods
+TRIVENI,Sugar,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods
