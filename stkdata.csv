@@ -1,0 +1,23 @@
+symbol,basic_industry,industry,macro,sector
+ANIKINDS,Trading & Distributors,Commercial Services & Supplies,Services,Services
+ANLON,Diversified Commercial Services,Commercial Services & Supplies,Services,Services
+CROWN,Industrial Products,Industrial Manufacturing,Industrials,Capital Goods
+CSBBANK,Private Sector Bank,Banks,Financial Services,Financial Services
+CSLFINANCE,Non Banking Financial Company (NBFC),Finance,Financial Services,Financial Services
+CUBEXTUB,Aluminium Copper & Zinc Products,Industrial Products,Industrials,Capital Goods
+DPABHUSHAN,Gems Jewellery And Watches,Consumer Durables,Consumer Discretionary,Consumer Durables
+DPEL,Cables - Electricals,Industrial Products,Industrials,Capital Goods
+DPSCLTD,Integrated Power Utilities,Power,Utilities,Power
+EMCURE,Pharmaceuticals,Pharmaceuticals & Biotechnology,Healthcare,Healthcare
+EMKAYTOOLS,Industrial Products,Industrial Manufacturing,Industrials,Capital Goods
+GNA,Auto Components & Equipments,Auto Components,Consumer Discretionary,Automobile and Auto Components
+GNFC,Commodity Chemicals,Chemicals & Petrochemicals,Commodities,Chemicals
+GOACARBON,Industrial Minerals,Minerals & Mining,Commodities,Metals & Mining
+GOCLCORP,Explosives,Chemicals & Petrochemicals,Commodities,Chemicals
+GOCOLORS,Speciality Retail,Retailing,Consumer Discretionary,Consumer Services
+GODREJPROP,Residential Commercial Projects,Realty,Consumer Discretionary,Realty
+GOENKA,Gems Jewellery And Watches,Consumer Durables,Consumer Discretionary,Consumer Durables
+GOKEX,Garments & Apparels,Textiles & Apparels,Consumer Discretionary,Textiles
+GOKUL,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+GOKULAGRO,Edible Oil,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods
+OLAELEC,2/3 Wheelers,Automobiles,Consumer Discretionary,Automobile and Auto Components
