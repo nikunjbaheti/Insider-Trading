@@ -1,0 +1,106 @@
+[2025-06-05 18:00:01] Starting Symbols.py...
+[2025-06-05 18:00:01] Symbols.py completed in 0.16 seconds.
+[2025-06-05 18:00:01] Errors in Symbols.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/Symbols.py", line 6, in <module>
+    from fake_useragent import UserAgent
+ModuleNotFoundError: No module named 'fake_useragent'
+
+[2025-06-05 18:00:01] Error occurred while running Symbols.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/Symbols.py", line 6, in <module>
+    from fake_useragent import UserAgent
+ModuleNotFoundError: No module named 'fake_useragent'
+
+[2025-06-05 18:00:01] Starting Updated_Mktcap.py...
+[2025-06-05 18:00:01] Updated_Mktcap.py completed in 0.03 seconds.
+[2025-06-05 18:00:01] Errors in Updated_Mktcap.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/Updated_Mktcap.py", line 4, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+[2025-06-05 18:00:01] Error occurred while running Updated_Mktcap.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/Updated_Mktcap.py", line 4, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+[2025-06-05 18:00:01] Starting insider_trading_data.py...
+[2025-06-05 18:00:02] insider_trading_data.py completed in 0.14 seconds.
+[2025-06-05 18:00:02] Errors in insider_trading_data.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/insider_trading_data.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+[2025-06-05 18:00:02] Error occurred while running insider_trading_data.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/insider_trading_data.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+[2025-06-05 18:00:02] Starting promoter_pledge.py...
+[2025-06-05 18:00:02] promoter_pledge.py completed in 0.13 seconds.
+[2025-06-05 18:00:02] Errors in promoter_pledge.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/promoter_pledge.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+[2025-06-05 18:00:02] Error occurred while running promoter_pledge.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/promoter_pledge.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+[2025-06-05 18:00:02] Starting StkData.py...
+[2025-06-05 18:00:02] StkData.py completed in 0.01 seconds.
+[2025-06-05 18:00:02] Errors in StkData.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/StkData.py", line 1, in <module>
+    from requests_html import HTMLSession
+ModuleNotFoundError: No module named 'requests_html'
+
+[2025-06-05 18:00:02] Error occurred while running StkData.py:
+Traceback (most recent call last):
+  File "/home/nikunj/NseInsiderTrading/StkData.py", line 1, in <module>
+    from requests_html import HTMLSession
+ModuleNotFoundError: No module named 'requests_html'
+
+[2025-06-05 18:00:02] Starting commit_files.py...
+2025-06-05 18:00:02,368 - INFO - Script started.
+2025-06-05 18:00:02,786 - INFO - Successfully retrieved repository contents.
+2025-06-05 18:00:02,787 - INFO - Deleting file: StkData.py
+2025-06-05 18:00:03,393 - INFO - Successfully deleted StkData.py from GitHub.
+2025-06-05 18:00:03,394 - INFO - Deleting file: Symbols.csv
+2025-06-05 18:00:03,971 - INFO - Successfully deleted Symbols.csv from GitHub.
+2025-06-05 18:00:03,972 - INFO - Deleting file: Symbols.py
+2025-06-05 18:00:04,529 - INFO - Successfully deleted Symbols.py from GitHub.
+2025-06-05 18:00:04,530 - INFO - Deleting file: Updated_Mktcap.py
+2025-06-05 18:00:05,088 - INFO - Successfully deleted Updated_Mktcap.py from GitHub.
+2025-06-05 18:00:05,089 - INFO - Deleting file: auto_run.py
+2025-06-05 18:00:05,731 - INFO - Successfully deleted auto_run.py from GitHub.
+2025-06-05 18:00:05,731 - INFO - Deleting file: insider.csv
+2025-06-05 18:00:06,318 - INFO - Successfully deleted insider.csv from GitHub.
+2025-06-05 18:00:06,318 - INFO - Deleting file: insider_trading_data.py
+2025-06-05 18:00:06,894 - INFO - Successfully deleted insider_trading_data.py from GitHub.
+2025-06-05 18:00:06,894 - INFO - Deleting file: log.txt
+2025-06-05 18:00:07,451 - INFO - Successfully deleted log.txt from GitHub.
+2025-06-05 18:00:07,451 - INFO - Deleting file: mktcap.csv
+2025-06-05 18:00:07,995 - INFO - Successfully deleted mktcap.csv from GitHub.
+2025-06-05 18:00:07,995 - INFO - Deleting file: pledge.csv
+2025-06-05 18:00:08,629 - INFO - Successfully deleted pledge.csv from GitHub.
+2025-06-05 18:00:08,630 - INFO - Deleting file: promoter_pledge.py
+2025-06-05 18:00:09,293 - INFO - Successfully deleted promoter_pledge.py from GitHub.
+2025-06-05 18:00:09,294 - INFO - Deleting file: stkdata.csv
+2025-06-05 18:00:09,908 - INFO - Successfully deleted stkdata.csv from GitHub.
+2025-06-05 18:00:09,909 - INFO - Uploading file: Symbols.py
+2025-06-05 18:00:10,611 - INFO - Successfully uploaded Symbols.py to GitHub.
+2025-06-05 18:00:10,611 - INFO - Uploading file: stkdata.csv
+2025-06-05 18:00:11,451 - INFO - Successfully uploaded stkdata.csv to GitHub.
+2025-06-05 18:00:11,451 - INFO - Uploading file: insider.csv
+2025-06-05 18:00:15,151 - INFO - Successfully uploaded insider.csv to GitHub.
+2025-06-05 18:00:15,154 - INFO - Uploading file: promoter_pledge.py
+2025-06-05 18:00:15,915 - INFO - Successfully uploaded promoter_pledge.py to GitHub.
+2025-06-05 18:00:15,915 - INFO - Uploading file: log.txt
