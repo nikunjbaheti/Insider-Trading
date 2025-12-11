@@ -1,0 +1,229 @@
+[2025-12-11 18:00:01] Starting Symbols.py...
+[2025-12-11 18:00:02] Symbols.py output: Symbols saved to /home/nikunj/NseInsiderTrading/Symbols.csv for 11122025
+[2025-12-11 18:00:02] Symbols.py completed in 0.52 seconds.
+[2025-12-11 18:00:02] Starting Updated_Mktcap.py...
+2025-12-11 18:00:02,888 - INFO - Rotated user agent at index 0
+2025-12-11 18:00:09,682 - INFO - Rotated user agent at index 2
+2025-12-11 18:00:16,543 - INFO - Rotated user agent at index 4
+2025-12-11 18:00:23,261 - INFO - Rotated user agent at index 6
+2025-12-11 18:00:30,121 - INFO - Rotated user agent at index 8
+2025-12-11 18:00:36,960 - INFO - Rotated user agent at index 10
+[2025-12-11 18:00:40] Updated_Mktcap.py output: Rotated user agent at index 0
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 1018GS2026: ₹16050
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 20MICRONS: ₹669.56
+[2025-12-11 18:00:40] Updated_Mktcap.py output: Rotated user agent at index 2
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 21STCENMGM: ₹45.94
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 360ONE: ₹45982.15
+[2025-12-11 18:00:40] Updated_Mktcap.py output: Rotated user agent at index 4
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 3IINFOLTD: ₹337.64
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 3MINDIA: ₹38757.47
+[2025-12-11 18:00:40] Updated_Mktcap.py output: Rotated user agent at index 6
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 3PLAND: ₹67.5
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 591GS2028: ₹42546
+[2025-12-11 18:00:40] Updated_Mktcap.py output: Rotated user agent at index 8
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 5PAISA: ₹956.02
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 601GS2030: ₹62779.5
+[2025-12-11 18:00:40] Updated_Mktcap.py output: Rotated user agent at index 10
+[2025-12-11 18:00:40] Updated_Mktcap.py output: 628GS2032: ₹55550
+[2025-12-11 18:00:40] Updated_Mktcap.py output: Saved market cap data to /home/nikunj/NseInsiderTrading/mktcap.csv
+[2025-12-11 18:00:40] Updated_Mktcap.py completed in 38.22 seconds.
+[2025-12-11 18:00:40] Starting insider_trading_data.py...
+2025-12-11 18:00:43,878 - INFO - Data fetched successfully from NSE Insider API
+2025-12-11 18:01:06,298 - INFO - insider.csv replaced successfully with 4629 rows.
+[2025-12-11 18:01:06] insider_trading_data.py output: ✅ insider.csv created/replaced successfully with 4629 rows.
+[2025-12-11 18:01:06] insider_trading_data.py completed in 25.77 seconds.
+[2025-12-11 18:01:06] Starting promoter_pledge.py...
+2025-12-11 18:01:06,871 Loaded existing pledge.csv file.
+2025-12-11 18:01:06,877 Navigating to NSE homepage...
+2025-12-11 18:01:06,879 Starting new HTTPS connection (1): www.nseindia.com:443
+2025-12-11 18:01:06,956 https://www.nseindia.com:443 "GET / HTTP/1.1" 403 368
+2025-12-11 18:01:06,956 HTTP error: 403 Client Error: Forbidden for url: https://www.nseindia.com/ | Status code: 403
+2025-12-11 18:01:06,957 Error fetching data: None
+[2025-12-11 18:01:06] promoter_pledge.py output: Loading existing pledge.csv file...
+[2025-12-11 18:01:06] promoter_pledge.py output: Loaded existing pledge.csv file.
+[2025-12-11 18:01:06] promoter_pledge.py output: Navigating to NSE homepage...
+[2025-12-11 18:01:06] promoter_pledge.py output: HTTP error: 403 Client Error: Forbidden for url: https://www.nseindia.com/
+[2025-12-11 18:01:06] promoter_pledge.py output: Error fetching data. Exiting script.
+[2025-12-11 18:01:07] promoter_pledge.py completed in 0.65 seconds.
+[2025-12-11 18:01:07] Starting StkData.py...
+2025-12-11 18:01:07,593 - INFO - Reading symbols from /home/nikunj/NseInsiderTrading/Symbols.csv
+2025-12-11 18:01:07,595 - INFO - Creating output directory at /home/nikunj/NseInsiderTrading
+2025-12-11 18:01:07,638 - INFO - Using User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2025-12-11 18:01:07,639 - INFO - Starting to process symbols
+2025-12-11 18:01:07,640 - INFO - Processing symbol: 1018GS2026
+2025-12-11 18:01:07,640 - INFO - Visiting NSE homepage to establish cookies for symbol: 1018GS2026
+2025-12-11 18:01:07,742 - INFO - Visiting equity script page for symbol: 1018GS2026
+2025-12-11 18:01:07,902 - INFO - Fetching API data for symbol: 1018GS2026
+2025-12-11 18:01:07,992 - INFO - Data retrieved for symbol: 1018GS2026
+2025-12-11 18:01:07,993 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 1018GS2026
+2025-12-11 18:01:09,993 - INFO - Processing symbol: 20MICRONS
+2025-12-11 18:01:09,993 - INFO - Visiting NSE homepage to establish cookies for symbol: 20MICRONS
+2025-12-11 18:01:10,031 - INFO - Visiting equity script page for symbol: 20MICRONS
+2025-12-11 18:01:10,210 - INFO - Fetching API data for symbol: 20MICRONS
+2025-12-11 18:01:10,392 - INFO - Data retrieved for symbol: 20MICRONS
+2025-12-11 18:01:10,393 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 20MICRONS
+2025-12-11 18:01:12,394 - INFO - Processing symbol: 21STCENMGM
+2025-12-11 18:01:12,394 - INFO - Visiting NSE homepage to establish cookies for symbol: 21STCENMGM
+2025-12-11 18:01:12,435 - INFO - Visiting equity script page for symbol: 21STCENMGM
+2025-12-11 18:01:12,642 - INFO - Fetching API data for symbol: 21STCENMGM
+2025-12-11 18:01:12,747 - INFO - Data retrieved for symbol: 21STCENMGM
+2025-12-11 18:01:12,749 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 21STCENMGM
+2025-12-11 18:01:14,749 - INFO - Processing symbol: 360ONE
+2025-12-11 18:01:14,749 - INFO - Visiting NSE homepage to establish cookies for symbol: 360ONE
+2025-12-11 18:01:14,785 - INFO - Visiting equity script page for symbol: 360ONE
+2025-12-11 18:01:15,015 - INFO - Fetching API data for symbol: 360ONE
+2025-12-11 18:01:15,193 - INFO - Data retrieved for symbol: 360ONE
+2025-12-11 18:01:15,194 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 360ONE
+2025-12-11 18:01:17,194 - INFO - Processing symbol: 3IINFOLTD
+2025-12-11 18:01:17,194 - INFO - Visiting NSE homepage to establish cookies for symbol: 3IINFOLTD
+2025-12-11 18:01:17,234 - INFO - Visiting equity script page for symbol: 3IINFOLTD
+2025-12-11 18:01:17,337 - INFO - Fetching API data for symbol: 3IINFOLTD
+2025-12-11 18:01:17,500 - INFO - Data retrieved for symbol: 3IINFOLTD
+2025-12-11 18:01:17,501 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 3IINFOLTD
+2025-12-11 18:01:19,502 - INFO - Processing symbol: 3MINDIA
+2025-12-11 18:01:19,502 - INFO - Visiting NSE homepage to establish cookies for symbol: 3MINDIA
+2025-12-11 18:01:19,539 - INFO - Visiting equity script page for symbol: 3MINDIA
+2025-12-11 18:01:19,704 - INFO - Fetching API data for symbol: 3MINDIA
+2025-12-11 18:01:19,825 - INFO - Data retrieved for symbol: 3MINDIA
+2025-12-11 18:01:19,827 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 3MINDIA
+2025-12-11 18:01:21,827 - INFO - Processing symbol: 3PLAND
+2025-12-11 18:01:21,827 - INFO - Visiting NSE homepage to establish cookies for symbol: 3PLAND
+2025-12-11 18:01:21,866 - INFO - Visiting equity script page for symbol: 3PLAND
+2025-12-11 18:01:22,063 - INFO - Fetching API data for symbol: 3PLAND
+2025-12-11 18:01:22,211 - INFO - Data retrieved for symbol: 3PLAND
+2025-12-11 18:01:22,213 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 3PLAND
+2025-12-11 18:01:24,213 - INFO - Processing symbol: 591GS2028
+2025-12-11 18:01:24,213 - INFO - Visiting NSE homepage to establish cookies for symbol: 591GS2028
+2025-12-11 18:01:24,249 - INFO - Visiting equity script page for symbol: 591GS2028
+2025-12-11 18:01:24,429 - INFO - Fetching API data for symbol: 591GS2028
+2025-12-11 18:01:24,569 - INFO - Data retrieved for symbol: 591GS2028
+2025-12-11 18:01:24,570 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 591GS2028
+2025-12-11 18:01:26,570 - INFO - Processing symbol: 5PAISA
+2025-12-11 18:01:26,570 - INFO - Visiting NSE homepage to establish cookies for symbol: 5PAISA
+2025-12-11 18:01:26,619 - INFO - Visiting equity script page for symbol: 5PAISA
+2025-12-11 18:01:26,716 - INFO - Fetching API data for symbol: 5PAISA
+2025-12-11 18:01:26,841 - INFO - Data retrieved for symbol: 5PAISA
+2025-12-11 18:01:26,843 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 5PAISA
+2025-12-11 18:01:28,843 - INFO - Processing symbol: 601GS2030
+2025-12-11 18:01:28,843 - INFO - Visiting NSE homepage to establish cookies for symbol: 601GS2030
+2025-12-11 18:01:28,883 - INFO - Visiting equity script page for symbol: 601GS2030
+2025-12-11 18:01:29,049 - INFO - Fetching API data for symbol: 601GS2030
+2025-12-11 18:01:29,239 - INFO - Data retrieved for symbol: 601GS2030
+2025-12-11 18:01:29,240 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 601GS2030
+2025-12-11 18:01:31,240 - INFO - Processing symbol: 628GS2032
+2025-12-11 18:01:31,241 - INFO - Visiting NSE homepage to establish cookies for symbol: 628GS2032
+2025-12-11 18:01:31,276 - INFO - Visiting equity script page for symbol: 628GS2032
+2025-12-11 18:01:31,471 - INFO - Fetching API data for symbol: 628GS2032
+2025-12-11 18:01:31,572 - INFO - Data retrieved for symbol: 628GS2032
+2025-12-11 18:01:31,573 - INFO - Waiting 2 seconds to avoid rate-limiting for symbol: 628GS2032
+2025-12-11 18:01:33,573 - INFO - Saving data to /home/nikunj/NseInsiderTrading/stkdata.csv
+2025-12-11 18:01:33,575 - INFO - Data saved successfully to /home/nikunj/NseInsiderTrading/stkdata.csv
+[2025-12-11 18:01:33] StkData.py output: Reading symbols from /home/nikunj/NseInsiderTrading/Symbols.csv
+[2025-12-11 18:01:33] StkData.py output: Creating output directory at /home/nikunj/NseInsiderTrading
+[2025-12-11 18:01:33] StkData.py output: Using User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+[2025-12-11 18:01:33] StkData.py output: Starting to process symbols
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 1018GS2026
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 1018GS2026
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 1018GS2026
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 1018GS2026
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 1018GS2026
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 1018GS2026
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 20MICRONS
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 20MICRONS
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 20MICRONS
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 20MICRONS
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 20MICRONS
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 20MICRONS
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 21STCENMGM
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 21STCENMGM
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 21STCENMGM
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 21STCENMGM
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 21STCENMGM
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 21STCENMGM
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 360ONE
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 360ONE
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 360ONE
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 360ONE
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 360ONE
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 360ONE
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 3IINFOLTD
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 3IINFOLTD
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 3IINFOLTD
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 3IINFOLTD
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 3IINFOLTD
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 3IINFOLTD
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 3MINDIA
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 3MINDIA
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 3MINDIA
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 3MINDIA
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 3MINDIA
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 3MINDIA
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 3PLAND
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 3PLAND
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 3PLAND
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 3PLAND
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 3PLAND
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 3PLAND
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 591GS2028
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 591GS2028
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 591GS2028
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 591GS2028
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 591GS2028
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 591GS2028
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 5PAISA
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 5PAISA
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 5PAISA
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 5PAISA
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 5PAISA
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 5PAISA
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 601GS2030
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 601GS2030
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 601GS2030
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 601GS2030
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 601GS2030
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 601GS2030
+[2025-12-11 18:01:33] StkData.py output: Processing symbol: 628GS2032
+[2025-12-11 18:01:33] StkData.py output: Visiting NSE homepage to establish cookies for symbol: 628GS2032
+[2025-12-11 18:01:33] StkData.py output: Visiting equity script page for symbol: 628GS2032
+[2025-12-11 18:01:33] StkData.py output: Fetching API data for symbol: 628GS2032
+[2025-12-11 18:01:33] StkData.py output: Data retrieved for symbol: 628GS2032
+[2025-12-11 18:01:33] StkData.py output: Waiting 2 seconds to avoid rate-limiting for symbol: 628GS2032
+[2025-12-11 18:01:33] StkData.py output: Saving data to /home/nikunj/NseInsiderTrading/stkdata.csv
+[2025-12-11 18:01:33] StkData.py output: Data saved successfully to /home/nikunj/NseInsiderTrading/stkdata.csv
+[2025-12-11 18:01:33] StkData.py completed in 26.66 seconds.
+[2025-12-11 18:01:33] Starting commit_files.py...
+2025-12-11 18:01:33,859 - INFO - Script started.
+2025-12-11 18:01:34,209 - INFO - Successfully retrieved repository contents.
+2025-12-11 18:01:34,209 - INFO - Deleting file: StkData.py
+2025-12-11 18:01:34,868 - INFO - Successfully deleted StkData.py from GitHub.
+2025-12-11 18:01:34,869 - INFO - Deleting file: Symbols.csv
+2025-12-11 18:01:35,478 - INFO - Successfully deleted Symbols.csv from GitHub.
+2025-12-11 18:01:35,478 - INFO - Deleting file: Symbols.py
+2025-12-11 18:01:36,035 - INFO - Successfully deleted Symbols.py from GitHub.
+2025-12-11 18:01:36,036 - INFO - Deleting file: Updated_Mktcap.py
+2025-12-11 18:01:36,636 - INFO - Successfully deleted Updated_Mktcap.py from GitHub.
+2025-12-11 18:01:36,636 - INFO - Deleting file: auto_run.py
+2025-12-11 18:01:37,233 - INFO - Successfully deleted auto_run.py from GitHub.
+2025-12-11 18:01:37,233 - INFO - Deleting file: insider.csv
+2025-12-11 18:01:37,880 - INFO - Successfully deleted insider.csv from GitHub.
+2025-12-11 18:01:37,880 - INFO - Deleting file: insider_trading_data.py
+2025-12-11 18:01:38,489 - INFO - Successfully deleted insider_trading_data.py from GitHub.
+2025-12-11 18:01:38,489 - INFO - Deleting file: log.txt
+2025-12-11 18:01:39,098 - INFO - Successfully deleted log.txt from GitHub.
+2025-12-11 18:01:39,098 - INFO - Deleting file: mktcap.csv
+2025-12-11 18:01:39,694 - INFO - Successfully deleted mktcap.csv from GitHub.
+2025-12-11 18:01:39,695 - INFO - Deleting file: pledge.csv
+2025-12-11 18:01:40,300 - INFO - Successfully deleted pledge.csv from GitHub.
+2025-12-11 18:01:40,300 - INFO - Deleting file: promoter_pledge.py
+2025-12-11 18:01:40,812 - INFO - Successfully deleted promoter_pledge.py from GitHub.
+2025-12-11 18:01:40,812 - INFO - Deleting file: stkdata.csv
+2025-12-11 18:01:41,361 - INFO - Successfully deleted stkdata.csv from GitHub.
+2025-12-11 18:01:41,362 - INFO - Uploading file: Symbols.py
+2025-12-11 18:01:41,986 - INFO - Successfully uploaded Symbols.py to GitHub.
+2025-12-11 18:01:41,987 - INFO - Uploading file: stkdata.csv
+2025-12-11 18:01:42,766 - INFO - Successfully uploaded stkdata.csv to GitHub.
+2025-12-11 18:01:42,767 - INFO - Uploading file: insider.csv
+2025-12-11 18:01:44,888 - INFO - Successfully uploaded insider.csv to GitHub.
+2025-12-11 18:01:44,888 - INFO - Uploading file: promoter_pledge.py
+2025-12-11 18:01:45,577 - INFO - Successfully uploaded promoter_pledge.py to GitHub.
+2025-12-11 18:01:45,578 - INFO - Uploading file: log.txt
