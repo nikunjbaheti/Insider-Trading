@@ -1,0 +1,44 @@
+[2026-09-08 21:16:52] Starting Symbols.py...
+[2026-09-08 21:16:53] Symbols.py output: Symbols saved to /home/nikunj/NseInsiderTrading/Symbols.csv for 08092026
+[2026-09-08 21:16:53] Symbols.py completed in 0.47 seconds.
+[2026-09-08 21:16:53] Starting Updated_Mktcap.py...
+2026-09-08 21:16:53,691 - INFO - Rotated user agent at index 0
+2026-09-08 21:16:56,166 - ERROR - 1018GS2026 failed with status code 403
+2026-09-08 21:16:59,540 - ERROR - 20MICRONS failed with status code 403
+2026-09-08 21:17:00,547 - INFO - Rotated user agent at index 2
+2026-09-08 21:17:03,091 - ERROR - 21STCENMGM failed with status code 403
+2026-09-08 21:17:09,278 - INFO - Script started.
+2026-09-08 21:17:10,171 - INFO - Successfully retrieved repository contents.
+2026-09-08 21:17:10,172 - INFO - Deleting file: StkData.py
+2026-09-08 21:17:10,997 - INFO - Successfully deleted StkData.py from GitHub.
+2026-09-08 21:17:10,998 - INFO - Deleting file: Symbols.csv
+2026-09-08 21:17:11,874 - INFO - Successfully deleted Symbols.csv from GitHub.
+2026-09-08 21:17:11,874 - INFO - Deleting file: Symbols.py
+2026-09-08 21:17:12,865 - INFO - Successfully deleted Symbols.py from GitHub.
+2026-09-08 21:17:12,865 - INFO - Deleting file: Updated_Mktcap.py
+2026-09-08 21:17:13,683 - INFO - Successfully deleted Updated_Mktcap.py from GitHub.
+2026-09-08 21:17:13,683 - INFO - Deleting file: auto_run.py
+2026-09-08 21:17:14,621 - INFO - Successfully deleted auto_run.py from GitHub.
+2026-09-08 21:17:14,622 - INFO - Deleting file: insider.csv
+2026-09-08 21:17:15,863 - INFO - Successfully deleted insider.csv from GitHub.
+2026-09-08 21:17:15,864 - INFO - Deleting file: insider_trading_data.py
+2026-09-08 21:17:16,744 - INFO - Successfully deleted insider_trading_data.py from GitHub.
+2026-09-08 21:17:16,745 - INFO - Deleting file: log.txt
+2026-09-08 21:17:17,635 - INFO - Successfully deleted log.txt from GitHub.
+2026-09-08 21:17:17,636 - INFO - Deleting file: mktcap.csv
+2026-09-08 21:17:18,527 - INFO - Successfully deleted mktcap.csv from GitHub.
+2026-09-08 21:17:18,527 - INFO - Deleting file: pledge.csv
+2026-09-08 21:17:19,415 - INFO - Successfully deleted pledge.csv from GitHub.
+2026-09-08 21:17:19,415 - INFO - Deleting file: promoter_pledge.py
+2026-09-08 21:17:20,754 - INFO - Successfully deleted promoter_pledge.py from GitHub.
+2026-09-08 21:17:20,755 - INFO - Deleting file: stkdata.csv
+2026-09-08 21:17:21,651 - INFO - Successfully deleted stkdata.csv from GitHub.
+2026-09-08 21:17:21,652 - INFO - Uploading file: Symbols.py
+2026-09-08 21:17:22,739 - INFO - Successfully uploaded Symbols.py to GitHub.
+2026-09-08 21:17:22,740 - INFO - Uploading file: stkdata.csv
+2026-09-08 21:17:23,743 - INFO - Successfully uploaded stkdata.csv to GitHub.
+2026-09-08 21:17:23,744 - INFO - Uploading file: insider.csv
+2026-09-08 21:17:26,209 - INFO - Successfully uploaded insider.csv to GitHub.
+2026-09-08 21:17:26,210 - INFO - Uploading file: promoter_pledge.py
+2026-09-08 21:17:27,226 - INFO - Successfully uploaded promoter_pledge.py to GitHub.
+2026-09-08 21:17:27,227 - INFO - Uploading file: log.txt
